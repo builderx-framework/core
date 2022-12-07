@@ -1,23 +1,23 @@
 {
-  "name": "@builderx-framework/core",
-  "version": "0.0.1",
-  "description": "Core code of BuilderX framework",
-  "scripts": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/builderx-framework/core.git"
-  },
-  "keywords": [
-    "core",
-    "apps-service"
-  ],
-  "author": "Shivam Singhal",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/builderx-framework/core/issues"
-  },
-  "homepage": "https://github.com/builderx-framework/core#readme",
-  "dependencies": {
-    "commander": "^9.4.1"
-  }
+	"name": "@builderx-framework/core",
+	"version": "0.0.2",
+	"description": "Core code of BuilderX framework",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/builderx-framework/core.git"
+	},
+	"keywords": [
+		"core",
+		"apps-service"
+	],
+	"author": "Shivam Singhal",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/builderx-framework/core/issues"
+	},
+	"homepage": "https://github.com/builderx-framework/core#readme",
+	"dependencies": {
+		"commander": "^9.4.1"
+	}
 }
